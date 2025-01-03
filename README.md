@@ -19,4 +19,3 @@
 ### Docs
 
 - **[Selenuim](https://www.selenium.dev/documentation/)**
-# simple-nodejs-ui-test
